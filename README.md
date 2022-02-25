@@ -2,5 +2,5 @@
 Sergio Marchena - 16387
 
 ### 2 main files
-- python notebook (all the code): proyecto_1.ipynb
+- python notebook (all the code): proyecto1.ipynb
 - pdf scientific paper: articulo.pdf
